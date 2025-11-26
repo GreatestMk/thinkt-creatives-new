@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://greatestmk.github.io/thinkt-creatives-new/sitemap.xml
